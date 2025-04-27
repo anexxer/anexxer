@@ -17,7 +17,7 @@ Other: API Integration, Web Scraping, Problem Solving, ML model creation
 🚀 Projects
 Automation Bots — Scripts to automate boring tasks (data extraction, notifications).
 
-Web Applications — Built simple web apps with Flask.
+Web Applications — Built simple web apps, especially like the Vsnake chatbot thingy that got us third in a state level hackathon.
 
 Machine Learning Models — Worked on basic ML projects like classification and regression.
 
