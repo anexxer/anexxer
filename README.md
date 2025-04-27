@@ -19,7 +19,7 @@ Automation Bots — Scripts to automate boring tasks (data extraction, notificat
 
 Web Applications — Built simple web apps, especially like the Vsnake chatbot thingy that got us third in a state level hackathon.
 
-Machine Learning Models — Worked on basic ML projects like classification and regression.
+Machine Learning Models — Worked on basic ML projects like detecting deepfakes, sentiment analysis on reviews and so on
 
 (More projects coming soon!)
 
