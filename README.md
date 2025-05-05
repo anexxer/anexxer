@@ -6,8 +6,6 @@ Currently exploring the exciting worlds of web development, automation, and AI/M
 🛠️ Skills
 Languages: Python, HTML, C, JAVA
 
-Frameworks: Flask, Flutter, Django
-
 Libraries: Pandas, NumPy, BeautifulSoup, Requests, Scikit-learn, Tensorflow and a ton more idk lost count
 
 Tools: Git, GitHub, VS Code
@@ -28,7 +26,7 @@ Enhancing my skills in backend development and API building.
 
 Deepening my understanding of Machine Learning and Data Engineering.
 
-Learning Flask and Django
+Learning Flask,Django,Pytorch
 
 📫 Let's Connect
 Email: [anasmanzil2004@gmail.com]
