@@ -3,7 +3,6 @@
 I'm a passionate Python developer who loves building useful tools, automating tasks, and solving real-world problems through code.
 Currently exploring the exciting worlds of web development, automation, and AI/ML.
 
-🛠️ Skills
 Languages: Python, HTML, C, JAVA
 
 Libraries: Pandas, NumPy, BeautifulSoup, Requests, Scikit-learn, Tensorflow and a ton more idk lost count
